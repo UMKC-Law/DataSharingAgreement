@@ -1,4 +1,4 @@
-#Glossary of Terms for Third Party User Agreement,,,
+#Glossary of Terms for Third Party User Agreement
 
 "Smart Cities/Living Lab - TEAM 4, Bryan Wilson & Devon Coffey"
 
@@ -49,7 +49,7 @@
 </dd>
 
 <dt><b>Confidential Data</b></dt>
-<dd>Information Security, classifies as confidential any of the following data elements when they appear in conjunction with an individualís name or other identifier:  Social Security number, Credit card number,   Driverís license number, Bank account number, Protected health information, as defined by HIPAA.Confidential data is created by people to describe people. It is, or has been used for the following purposes: to uniquely identify people, pay or reimburse people, provide employment benefits, support business-related travel and lodging, to understand the financial status of a person, to fulfill obligations to the state or federal government.",http://www.it.cornell.edu/services/guides/data_discovery/confidential_data.cfm
+<dd>Information Security, classifies as confidential any of the following data elements when they appear in conjunction with an individual‚Äôs name or other identifier:  Social Security number, Credit card number,   Driver‚Äôs license number, Bank account number, Protected health information, as defined by HIPAA.Confidential data is created by people to describe people. It is, or has been used for the following purposes: to uniquely identify people, pay or reimburse people, provide employment benefits, support business-related travel and lodging, to understand the financial status of a person, to fulfill obligations to the state or federal government.",http://www.it.cornell.edu/services/guides/data_discovery/confidential_data.cfm
 </dd>
 
 <dt><b>Contractor (Independent)</b></dt>
@@ -57,7 +57,7 @@
 </dd>
 
 <dt><b>Copyright</b></dt>
-<dd>A right for the creators of creative works to restrict othersí use of those works. An owner of copyright is entitled to determine how others may use that work.,http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
+<dd>A right for the creators of creative works to restrict others‚Äô use of those works. An owner of copyright is entitled to determine how others may use that work.,http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
 </dd>
 
 <dt><b>Crowdsourced Data</b></dt>
@@ -93,7 +93,7 @@
 </dd>
 
 <dt><b>Data Protection Legislation</b></dt>
-<dd>Data protection legislation is not about protecting the data, but about protecting the right of citizens to live without fear that information about their private lives might become public. The law protects privacy (such as information about a personís economic status, health and political position) and other rights such as the right to freedom of movement and assembly.",http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
+<dd>Data protection legislation is not about protecting the data, but about protecting the right of citizens to live without fear that information about their private lives might become public. The law protects privacy (such as information about a person‚Äôs economic status, health and political position) and other rights such as the right to freedom of movement and assembly.",http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
 </dd>
 
 <dt><b>Data Scrubbing</b></dt>
@@ -117,7 +117,7 @@
 </dd>
 
 <dt><b>De-Identification</b></dt>
-<dd>De-identification is the process used to prevent a personís identity from being connected with information. Common uses of de-identification include human subject research for the sake of privacy for research participants. Common strategies for de-identifying datasets are deleting or masking personal identifiers, such as name and social security number, and suppressing or generalizing quasi-identifiers, such as date of birth and zip code.",http://en.wikipedia.org/wiki/De-identification
+<dd>De-identification is the process used to prevent a person‚Äôs identity from being connected with information. Common uses of de-identification include human subject research for the sake of privacy for research participants. Common strategies for de-identifying datasets are deleting or masking personal identifiers, such as name and social security number, and suppressing or generalizing quasi-identifiers, such as date of birth and zip code.",http://en.wikipedia.org/wiki/De-identification
 </dd>
 
 <dt><b>Developer</b></dt>
@@ -217,7 +217,7 @@
 </dd>
 
 <dt><b>Metadata</b></dt>
-<dd>Data that describes other data. Meta is a prefix that in most information technology usages means ""an underlying definition or description.""†Metadata†summarizes basic information about data, which can make finding and working with particular instances of data easier.",whatis.techtarget.com/definition/metadata
+<dd>Data that describes other data. Meta is a prefix that in most information technology usages means ""an underlying definition or description.""¬†Metadata¬†summarizes basic information about data, which can make finding and working with particular instances of data easier.",whatis.techtarget.com/definition/metadata
 </dd>
 
 <dt><b>Mobile Device</b></dt>
@@ -241,11 +241,11 @@
 </dd>
 
 <dt><b>Open</b></dt>
-<dd>Data or knowledge is open if anyone is free to access, use, modify, and share it ó subject, at most, to measures that preserve provenance and openness.",http://opendefinition.org/od/
+<dd>Data or knowledge is open if anyone is free to access, use, modify, and share it ‚Äî subject, at most, to measures that preserve provenance and openness.",http://opendefinition.org/od/
 </dd>
 
 <dt><b>Open Data</b></dt>
-<dd>Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).î",http://opendefinition.org
+<dd>Open means anyone can freely access, use, modify, and share for any purpose (subject, at most, to requirements that preserve provenance and openness).‚Äù",http://opendefinition.org
 </dd>
 
 <dt><b>Open Government</b></dt>
