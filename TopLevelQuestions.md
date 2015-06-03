@@ -23,7 +23,7 @@
      * [Language indicating this limitation]
     * Termination
      * //What will happen to the data when it is destroyed?
-     *[Language indicating this]
+       *[Language indicating this]
 5. Is the data sought subject to additional regulations?
    * FERPA
      * [Additional requirements for FERPA]
