@@ -1,4 +1,4 @@
-#Glossary of Terms for Third Party User Agreement for the summer semester
+#Glossary of Terms for Third Party User Agreement
 Let us make this general.
 "Smart Cities/Living Lab - TEAM 4, Bryan Wilson & Devon Coffey"
 
