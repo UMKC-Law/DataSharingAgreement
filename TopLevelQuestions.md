@@ -1,7 +1,7 @@
 # Top Level Questions:
 
 1. When and for how long will the receiver of the data have access to the data?
-    * //Should there going to be a limitation here?
+    * //This output will not necessarily limit or change the form of the agreement.
 2. What is the role of the applicant?
     * Developer
     * Citizen
