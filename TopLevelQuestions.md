@@ -4,8 +4,11 @@
     * //This output will not necessarily limit or change the form of the agreement
 2. What is the role of the applicant?
     * Developer
+       * [Different privacy restrictions/limitations] 
     * Citizen
+       * [Different privacy restrictions/limitations]  
     * Internal/Employee
+       * [Different privacy restrictions/limitations]  
 3. What is the intended use of the data?
     * Commercial
       * [Different privacy restrictions/limitations]
