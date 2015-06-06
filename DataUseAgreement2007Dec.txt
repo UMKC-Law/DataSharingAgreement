@@ -1,0 +1,171 @@
+                                       DATA USE AGREEMENT
+
+This Data Use Agreement (“Agreement”) is entered into by and between The Regents of the University of
+California, on behalf if its UC San Francisco Health System (“Covered Entity”) and [full legal name of
+entity]__________________________ having a principal place of business located at
+[address]_____________________________________ (“Data User”) and shall be effective as of
+________________ (the “Agreement Effective Date”).
+
+1. Definitions. The parties agree that the following terms when used in this Agreement shall have the
+   following meanings and that the terms set forth below shall be deemed to be modified to reflect any
+   changes made hereafter to such terms by law or regulation.
+
+   a. “HIPAA” means the Health Insurance Portability and Accountability Act of 1996, Public Law 104-
+      191.
+
+   b. “HIPAA Regulations” means the regulations promulgated under HIPAA by the United States
+      Department of Health and Human Services, including, but not limited to, 45 C.F.R. Part 160 and
+      45 C.F.R. Part 164.
+
+   c.   “Covered Entity” means a health plan, a health care clearinghouse, or a health care provider
+        (each as defined by HIPAA and the HIPAA Regulations) that transmits any health information in
+        electronic form in connection with a transaction covered by the HIPAA Regulations.
+
+   d. “Protected Health Information” or “PHI” means individually identifiable health information, except
+      that Protected Health Information excludes individually identifiable health information in education
+      records covered by the Family Educational Right and Privacy Act, as amended, 20 U.S.C.
+      §1232g, records described at 20 U.S.C. §1232g(a)(4)(B)(iv), and employment records held by a
+      covered entity in its role as employer.
+
+2. Obligations of Covered Entity.
+
+   a. Limited Data Set. Covered Entity agrees to share the following Protected Health Information with
+      Data User: [describe with specificity the PHI]_______________________________________
+      (the "Limited Data Set"). Such Limited Data Set shall not contain any of the following identifiers
+      of the individual(s) who is(are) the subject(s) of the Protected Health Information, or of relatives,
+      employers or household members of the individual(s): names; postal address information, other
+      than town or city, state and zip code; telephone numbers; fax numbers; electronic mail
+      addresses; social security numbers; medical record numbers; health plan beneficiary numbers;
+      account numbers; certificate/license numbers; vehicle identifiers and serial numbers, including
+      license plate numbers; device identifiers and serial numbers; Web Universal Resource Locators
+      (URLs); Internet Protocol (IP) address numbers; biometric identifiers, including finger and voice
+      prints; and full face photographic images and any comparable images.
+
+3. Obligations of Data User.
+
+   a. Performance of Activities. Data User may use and disclose the Limited Data Set received from
+      Covered Entity only in connection with the performance of the: [check appropriate box]
+         research activities,   public health activities, health care operations described below:
+
+
+                                                   -1-
+                                                                             Project # _______________
+        [describe]_____________________________________________________________________
+        _____________________________________________________________________________
+        _____________________________________________________________________________
+        ________.
+
+   b. Assurances of Data User’s Non-Employee Agents. Data User shall not disclose the Limited Data
+      Set to any non-employee agent, or subcontractor of Data User except with the express prior
+      written consent of Covered Entity. Data User shall ensure that any agents, including
+      subcontractors, to whom it provides the Limited Data Set agree in writing to be bound by the
+      same restrictions and conditions that apply to Data User with respect to such Limited Data Set.
+
+   c.   Nondisclosure Except As Provided In Agreement. Data User shall not use or further disclose the
+        Limited Data Set except as permitted or required by this Agreement or as otherwise required by
+        law.
+
+   d. Safeguards. Data User shall use appropriate safeguards to prevent use or disclosure of the
+      Limited Data Set other than as provided by this Agreement.
+
+   e. Reporting. Data User shall report to Covered Entity within twenty-four (24) hours of Data User
+      becoming aware of any use or disclosure of the Limited Data Set in violation of this Agreement or
+      applicable law.
+
+   f.   Identification and Contacting of Individuals. Data User shall not identify the information or contact
+        the individuals included in the Limited Data Set.
+
+4. Material Breach, Enforcement and Termination.
+
+   a. Term. This Agreement shall be effective as of the Agreement Effective Date and shall continue
+      until the Agreement is terminated by the parties or in accordance with the provisions of this
+      Section 4. All of Data User’s confidentiality obligations herein shall survive the expiration or
+      termination of this Agreement indefinitely.
+
+   b. Covered Entity’s Rights of Access and Inspection. From time to time upon reasonable notice, or
+      upon a reasonable determination by Covered Entity that Data User has breached this Agreement,
+      Covered Entity may inspect the facilities, systems, books and records of Data User to monitor
+      compliance with this Agreement. The fact that Covered Entity inspects, or fails to inspect, or has
+      the right to inspect, Data User’s facilities, systems and procedures does not relieve Data User of
+      its responsibility to comply with this Agreement, nor does Covered Entity’s (1) failure to detect or
+      (2) detection of, but failure to notify Data User or require Data User’s remediation of, any
+      unsatisfactory practices constitute acceptance of such practice or a waiver of Covered Entity’s
+      enforcement or termination rights under this Agreement. The parties’ respective rights and
+      obligations under this Section 4.b. shall survive termination of the Agreement.
+
+   c.   Termination. Covered Entity may terminate this Agreement:
+
+        i.    immediately if Data User is named as a defendant in a criminal proceeding for a violation of
+              HIPAA or the HIPAA Regulations;
+
+        ii.   immediately if a finding or stipulation that Data User has violated any standard or requirement
+              of HIPAA, the HIPAA Regulations, or any other security or privacy laws is made in any
+              administrative or civil proceeding in which Data User has been joined;
+
+        iii. immediately if Covered Entity determines that Data User has breached or violated a material
+             term of this Agreement;
+
+
+
+
+                                                     -2-
+                                                                             Project # _______________
+         iv. immediately if it is in the best interest of Covered Entity, as deemed by Covered Entity in its
+             sole discretion to do so; or
+
+         v.   pursuant to Section 5.b. of this Agreement.
+
+    d. Reporting to United States Department of Health and Human Services. If any breach or violation
+       is not cured, and if termination of this Agreement is not feasible, Covered Entity shall report Data
+       User’s breach or violation to the Secretary of the United States Department of Health and Human
+       Services, and Data User agrees that it shall not have or make any claim(s), whether at law, in
+       equity, or under this Agreement, against Covered Entity with respect to such report(s).
+
+    e. Disposition of Records. Upon termination of this Agreement for any reason, including, but not
+       limited to Data User’s decision to cease use of the Limited Data Set, Data User agrees to return
+       or destroy all Limited Data Set data, including copies and derivative versions.
+
+    f.   Indemnification. Data User shall indemnify, hold harmless and defend Covered Entity from and
+         against any and all claims, losses, liabilities, costs and other expenses resulting from, or relating
+         to, the acts or omissions of Data User in connection with the representations, duties and
+         obligations of Data User under this Agreement. The parties’ respective rights and obligations
+         under this Section 4.f. shall survive termination of the Agreement.
+
+5. Miscellaneous Terms.
+
+    a. Governing Law. This Agreement shall be governed by and construed in accordance with
+       applicable federal and California laws.
+
+    b. Amendment. Covered Entity and Data User agree that amendment of this Agreement may be
+       required to ensure that Covered Entity and Data User comply with changes in state and federal
+       laws and regulations relating to the privacy, security, and confidentiality of PHI or the Limited
+       Data Set. Covered Entity may terminate this Agreement upon ten (10) days’ written notice in the
+       event that Data User does not promptly enter into an amendment that Covered Entity, in its sole
+       discretion, deems sufficient to ensure that Covered Entity will be able to comply with such laws
+       and regulations.
+
+    c.   No Third-Party Beneficiaries. Nothing express or implied in this Agreement is intended or shall
+         be deemed to confer upon any person other than Covered Entity and Data User, and their
+         respective successors and assigns, any rights, obligations, remedies or liabilities.
+
+    d. Order of Precedence. To the extent that any provisions of this Agreement conflict with the
+       provisions of any other agreement or understanding between the parties with respect to use of
+       the Limited Data Set provided hereunder, this Agreement shall control.
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement as of the dates set forth
+below.
+
+THE REGENTS OF THE UNIVERSITY OF                            [DATA USER]
+CALIFORNIA, ON BEHALF OF ITS
+UC SAN FRANCISCO HEALTH SYSTEM
+
+Signature: _______________________________                  Signature: ______________________________
+
+Printed Name: ____________________________                  Printed Name: _________________________
+
+Title:   __________________________________                 Title:   ________________________________
+
+Date:    __________________________________                 Date:    ________________________________
+
+
+                                                     -3-
