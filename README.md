@@ -16,6 +16,6 @@ By reducing the document to a collection of clauses, we have given future users 
 
 As our document grows beyond a top-level document, we will need to create a set of system rules that assign additional privacy standards to users that request data sets that are governed by federal laws like FERPA, HIPAA, and COPA. Following that there will need to be additional system rules created that address the differing privacy standards among people that have higher and lower levels of authorization -- for instance, people in educational settings using data for research, people in federal agencies using data for inter-departmental purposes, or people using data for commercial purposes.
 
-Once these things occur, one of the final steps we will need to complete in order to prove this concept will be to create an API that will
+Once these things occur, one of the final steps we will need to complete in order to prove this concept will be to create an API that will:
 - Allow users of the system to answer a set of questions based on the types of data they are interested in accessing 
 - Produce a document, based on the information that the user input, with the requisite privacy standards for that document
