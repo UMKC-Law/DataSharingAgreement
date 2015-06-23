@@ -4,7 +4,7 @@ HIPPA-005.md
 # Clause Name = 
 HIPPA Knowledge or Non-Compliance
 # Clause URL = 
-
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-005.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
