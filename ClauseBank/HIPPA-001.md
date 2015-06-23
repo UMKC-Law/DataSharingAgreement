@@ -6,8 +6,8 @@ HIPPA Definitions
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-001.md
 # Source = 
-UMKC Law School, Summer Class Clause Curation
-Yale HIPPA Data Use Agreement
+* UMKC Law School, Summer Class Clause Curation
+* Yale HIPPA Data Use Agreement
 # CommonAccord Template Markup:   
 
 # Notes = 
