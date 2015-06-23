@@ -4,7 +4,7 @@ HIPPA-004.md
 # Clause Name = 
 HIPPA Reporting to United States Department of Health and Human Services
 # Clause URL = 
-
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-004.md
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
 
