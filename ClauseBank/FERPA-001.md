@@ -4,7 +4,7 @@ FERPA-001
 # Clause Name = 
 FERPA Definitions
 # Clause URL = 
-
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-001.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement 
