@@ -8,6 +8,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-00
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
+
 # CommonAccord Template Markup:   
 
 # Notes = 
