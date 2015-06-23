@@ -4,7 +4,7 @@ HIPPA-002.md
 # Clause Name = 
 HIPPA Termination & Enforcement 
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-001.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
