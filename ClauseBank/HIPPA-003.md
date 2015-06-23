@@ -4,7 +4,7 @@ HIPPA-003.md
 # Clause Name = 
 HIPPA- Remedies 
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-001.md
+https://github.com/UMKC-Law/DataSharingAgreement/edit/master/ClauseBank/HIPPA-.003.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
