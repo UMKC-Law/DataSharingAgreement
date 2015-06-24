@@ -14,22 +14,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-00
 # Notes = 
 
 # Content = 
-# Clause ID = 
-FERPA-003.md
 
-# Clause Name = 
-FERPA Termination
-# Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-003.md
-# Source = 
-* UMKC Law School, Summer Class Clause Curation
-* Kansas Department of Education 
-
-# CommonAccord Template Markup:   
-
-# Notes = 
-
-# Content = 
 a) Joint Responsibilities 
   1. {Data Supplier} and {User} shall comply with the provisions of FERPA in all respects. Nothing in this Agreement may be construed to allow any signatory to this Agreement to maintain, use, disclose, re-disclose or share student information in a manner not allowed by federal law, regulation or this Agreement. 
   2. {Data Supplier} and {User} shall identify at least one data custodian from their respective agencies who shall be responsible for processing and responding to data requests and general inquiries from the other party. Upon signing of this Agreement, both parties will exchange in writing the name, mailing address, telephone number, fax number and email address of their data custodian. The data custodian can be changed as conditions change. 
