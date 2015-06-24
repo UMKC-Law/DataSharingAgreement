@@ -1,0 +1,56 @@
+# Clause ID = 
+FERPA-002.md
+
+# Clause Name = 
+FERPA Responsibilities
+# Clause URL = 
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-002.md
+# Source = 
+* UMKC Law School, Summer Class Clause Curation
+* Kansas Department of Education 
+
+# CommonAccord Template Markup:   
+
+# Notes = 
+
+# Content = 
+# Clause ID = 
+FERPA-003.md
+
+# Clause Name = 
+FERPA Termination
+# Clause URL = 
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-003.md
+# Source = 
+* UMKC Law School, Summer Class Clause Curation
+* Kansas Department of Education 
+
+# CommonAccord Template Markup:   
+
+# Notes = 
+
+# Content = 
+a) Joint Responsibilities 
+  1. {Data Supplier} and {User} shall comply with the provisions of FERPA in all respects. Nothing in this Agreement may be construed to allow any signatory to this Agreement to maintain, use, disclose, re-disclose or share student information in a manner not allowed by federal law, regulation or this Agreement. 
+  2. {Data Supplier} and {User} shall identify at least one data custodian from their respective agencies who shall be responsible for processing and responding to data requests and general inquiries from the other party. Upon signing of this Agreement, both parties will exchange in writing the name, mailing address, telephone number, fax number and email address of their data custodian. The data custodian can be changed as conditions change. 
+  3. {User} will permit {Data Supplier} to review and will provide written assurances to the {Data Supplier} regarding the use of data transmitted under this Agreement for the purpose of ensuring that the {User} has appropriate policies and procedures in place to protect the personally identifiable information and that personally identifiable information will not be re-disclosed or released. 
+b) Responsibilities of {Data Supplier} 
+  1. {Data Supplier} will share the requested data with the {User}, but only for purposes of the {User} conducting an evaluation or audit of Federal or State supported education programs as described in paragraph III of this Agreement. The {Data Supplier} will determine and disclose only those specific data elements required to complete the audit or evaluation. 
+  2. {Data Supplier}, through execution of this Agreement, hereby does assign {User} as its authorized representative for purposes of having access to personally identifiable information of students as detailed in this Agreement and in accordance with 34 CFR 99.35. {User} is an authorized representative only for the sole purpose of conducting an evaluation or audit of federal and State supported education programs as detailed in this agreement. 
+  3. {Data Supplier} will, in light of the December 2011 guidance from the U.S. Department of Education, post for public access, a copy of this Agreement within the Data Request History repo1i located on the Data, Media and Repo1is portal of the {Data Supplier} website. 
+c) Responsibilities of {User}: 
+  1. {User} agrees to use data shared under this Agreement for no purpose other than to conduct an evaluation or audit of federal and State supported education programs. {Data Supplier} approval to utilize the personally identifiable info1mation from education records for this audit or evaluation does not confer approval to use it for any other purpose. 
+  2. {User} agrees not to share or re-disclose personally identifiable data received under this Agreement with any other entity, organization or individual without the prior written approval from {Data Supplier}. 
+  3. {User} agrees to maintain all data obtained pursuant to this Agreement separate from all other data files that they possess and not copy, reproduce or transmit data obtained pursuant to this Agreement, except as necessary to fulfill the purpose of completing the evaluation or audit described in this Agreement, or as necessary for established data management and backup processes. Transmission of all FERPA-protected data must be by SECURE electronic systems and/or networks. All copies of data of any type including any modifications or additions to data from any source that contains information regarding individual students, are subject to the provisions of this Agreement in the same manner as the original data. 
+  4. The ability to access or maintain data under this Agreement will not under any circumstances transfer from {User} or be assigned by {User} to any other individual, institution, organization, government or entity. 
+  5. Despite any contrary provisions in the Agreement, {User} agrees not to disclose any data obtained under this Agreement in a manner which could identify an individual student to any other individual, institution, organization, government or entity. 
+  6. {User} agrees to establish procedures and systems to ensure that all personally identifiable student data processed, stored, and/or transmitted under the provisions of this Agreement shall be maintained in a secure manner that prevents fmther disclosure of the data, including the interception, diversion, duplication, or other unauthorized access to said data. 
+  7. {User} agrees to establish procedures and systems to ensure all personally identifiable data obtained is kept in secured facilities and media, and that access to such records is restricted to {User} personnel who are authorized to have access to said data for the purposes of conducting the aforementioned evaluation. As part of these procedures and systems, {User} agrees that all personally identifiable data provided by {Data Supplier} will be stored in a manner that limits access to only those who are authorized. {User} agrees to provide to {Data Supplier} the computer's serial number, location, type of security system, firewall protection as well as any other information about the computer as requested. {User} agrees to never place personally identifiable info1mation on an unencrypted flash drive, compact disc or other similar device unless {User} first obtains prior written permission from {Data Supplier}. Failure to obtain prior written permission is considered a violation of this Agreement and must be reported to {Data Supplier} pursuant to the requirements of paragraph IV.c.10 of this Agreement. 
+  8. {User} agrees to establish a training program to teach its employees about FERPA, and how to protect personally identifiable information from education records. {User} will maintain records of the training provided for 6 (six) years after completion of the training. 
+  9. Upon signing of this Agreement, {User} shall submit to {Data Supplier} a list in writing of the individuals who are authorized to have access to said data provided by {Data Supplier} pursuant to this Agreement. This list shall include name(s), mailing address, telephone number, fax number and e-mail address. Along with the list, {User} must submit proof that each individual has completed {User} training program as described in the previous paragraph, and a copy of an affidavit of nondisclosure or other documentation indicating their individual agreement to handle the PII from education records properly. These names may be changed as conditions change as long as the described documentation is provided to {Data Supplier} at least seven days prior to {User} granting access to the individual. 
+  10. {User} shall, within one (1) hour of learning, report to {Data Supplier} in detail any incidents of any personally identifiable information received pursuant to this Agreement whose confidentiality was breached or is believed to have been breached. This initial notification must be by a phone call to {Data Supplier} authorized representative with a detailed follow up via letter within two (2) days. 
+  11. {User} agrees to destroy or return to {Data Supplier} all personally identifiable information when it is no longer needed for the purpose for which it was obtained under this Agreement. Nothing in this Agreement authorizes {User} to maintain data received from {Data Supplier} beyond the time period reasonably needed to complete the purpose of the request, and in no case beyond the termination date of this Agreement. Any destruction of the referenced data must be witnessed by one other person who shall attest that a complete destruction of the data occurred. {User} agrees to submit a letter to {Data Supplier} within 15 days of the termination of this Agreement, attesting to the destruction of any referenced personally identifiable data received from {Data Supplier}. {User} shall use attachment one to this Agreement as a template for this letter. No new Agreement will be agreed to by the {Data Supplier} until the data is returned or destroyed as set forth herein. 
+  12. {User} agrees to adhere to any {Data Supplier} protocols or directives prohibiting disclosure of data, which even though the data may not have been provided by {Data Supplier} in a personally identifiable manner, would still permit public identification of students because of the small cell sizes of the data. If data is so identified by {Data Supplier} or the data elements, it may only be used in a disaggregated or other manner consistent with generally accepted statistical principles that does not permit identification of students. 
+  13. Subject to the agreed-upon and limited use of requested data provided and only for the purposes assetied in this Agreement, there shall be no further disclosure by {User} of any of the information provided by {Data Supplier} in that this would constitute a re-disclosure of information. Pursuant to 34 CFR § 99.33, re-disclosure is only permitted upon obtaining prior consent of the parent or eligible student of the personally identifiable information. 
+  14. {User} agrees that the {Data Supplier} maintains the right to conduct audits or other monitoring activities of {User} policies, procedures, and systems as they apply to management of this data. This right includes, but is not limited to, the right to verify the existence of disciplinary policies to protect data, verify training programs as previously described, verify the existence of a sound data security plan, and verify the existence of a data stewardship program. {User} agrees that {Data Supplier} may conduct such auditing/monitoring with no prior notice, and agrees to full cooperate with {Data Supplier} auditing and monitoring processes and procedures. 
+  15. Under no circumstance shall {User} become owners, proprietors or custodians of any data or personally identifiable information provided by {Data Supplier} under the terms of this Agreement. {User} shall provide all results to {Data Supplier} prior to publication for review and approval to ensure they reflect the original intent of the Agreement. {User} shall grant to {Data Supplier} a royalty-free, nonexclusive and in-evocable license to reproduce, publish or otherwise use any of the audit or evaluation results completed with data and personally identifiable info1mation pursuant to this Agreement, and to authorize others to use such results for educational and government purposes.
