@@ -5,8 +5,8 @@
 3.  "User"
 4.  "City"
 5.  "Duration"
-6.  "Termination
-7.  ...
+6.  "Termination"
+
 ##Open Terms 
 1. Name  
 2. Company Name  
