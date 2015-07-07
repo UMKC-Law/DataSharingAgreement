@@ -5,6 +5,7 @@ Company Address,
 Data Set,  
 Use of Data Set,  
 and Orgins of Data Set. 
+
 #FERPA Definitions
 1. Disclosure
 2. FERPA
@@ -38,9 +39,10 @@ and Orgins of Data Set.
 24. Data References 
 25. Broadcasting of Data 
 26. Modifications
-27. #FERPA Responsibilities
+27. FERPA Responsibilities
     1. Joint
     2. Data Supplier
     3. User
+    4. 
 #FERPA Termination
 
