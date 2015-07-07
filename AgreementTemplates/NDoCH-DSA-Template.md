@@ -12,6 +12,7 @@ and Orgins of Data Set.
 3. Authorized Representative
 4. Personally Identifiable Information
 5. Education Records
+
 #Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
