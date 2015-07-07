@@ -13,6 +13,13 @@ and Orgins of Data Set.
 4. Personally Identifiable Information
 5. Education Records
 
+#HIPPA Definitions
+1. HIPPA
+2. HIPPA Regulations
+3. Covered Entity
+4. Individually Identifiable Health Information
+5. Protected Health Information
+
 #Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
@@ -44,5 +51,9 @@ and Orgins of Data Set.
     1. Joint
     2. Data Supplier
     3. User
-#FERPA Termination
+28. FERPA Termination
+29. HIPPA Termination and Enforcement
+30. HIPPA Remedies
+31. HIPPA Reporting to HHS
+32. HIPPA Knowledge and Non-Compliance
 
