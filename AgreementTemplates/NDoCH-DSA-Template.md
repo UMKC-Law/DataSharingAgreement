@@ -44,6 +44,5 @@ and Orgins of Data Set.
     1. Joint
     2. Data Supplier
     3. User
-    4. 
 #FERPA Termination
 
