@@ -1,4 +1,10 @@
 #Definitions 
+Name,  
+Company Name,  
+Company Address,  
+Data Set,  
+Use of Data Set,  
+and Orgins of Data Set.  
 #Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
@@ -25,6 +31,5 @@
 23. Non-Exclusive Agreement 
 24. Data References 
 25. Broadcasting of Data 
-26. Modifications 
-#FERPA
-#HIPPA
+26. Modifications
+
