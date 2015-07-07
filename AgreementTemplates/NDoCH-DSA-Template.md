@@ -1,26 +1,28 @@
-#Definitions 
-Name,  
-Company Name,  
-Company Address,  
-Data Set,  
-Use of Data Set,  
-and Orgins of Data Set. 
+#Template 
+##Definitions 
+1. "Data Set"
+2. "Data"
+3.  "User"
+4.  "City"
+5.  "Duration"
+6.  "Termination
+7.  ...
+##Open Terms 
+1. Name  
+2. Company Name  
+3. Company Address  
+4. Data Set  
+5. Use of Data Set  
+6. Orgins of Data Set 
 
-#FERPA Definitions
+##FERPA Definitions
 1. Disclosure
 2. FERPA
 3. Authorized Representative
 4. Personally Identifiable Information
 5. Education Records
 
-#HIPPA Definitions
-1. HIPPA
-2. HIPPA Regulations
-3. Covered Entity
-4. Individually Identifiable Health Information
-5. Protected Health Information
-
-#Clauses 
+##Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
 3. Form of Data
@@ -51,9 +53,5 @@ and Orgins of Data Set.
     1. Joint
     2. Data Supplier
     3. User
-28. FERPA Termination
-29. HIPPA Termination and Enforcement
-30. HIPPA Remedies
-31. HIPPA Reporting to HHS
-32. HIPPA Knowledge and Non-Compliance
+##FERPA Termination
 
