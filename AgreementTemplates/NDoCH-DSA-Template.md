@@ -1,3 +1,5 @@
+#Definitions 
+#Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
 3. Form of Data
@@ -24,3 +26,5 @@
 24. Data References 
 25. Broadcasting of Data 
 26. Modifications 
+#FERPA
+#HIPPA
