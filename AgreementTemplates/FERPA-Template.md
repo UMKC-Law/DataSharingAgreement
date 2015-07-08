@@ -10,4 +10,4 @@
 8. Venue
 9. Nondebarment
 
-
+http://www.ksde.org/Portals/0/Data%20Media%20Reports/FP%202480%20Data%20Sharing%20Agreement%20with%20Data%20Driven%20Enterprises.pdf
