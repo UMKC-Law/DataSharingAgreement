@@ -1,5 +1,5 @@
 # Clause ID = 
-HIPPA Termination&Enforcement-003.md 
+HIPPA-002
 
 # Clause Name = 
 HIPPA Termination & Enforcement 
