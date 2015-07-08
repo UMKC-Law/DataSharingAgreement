@@ -15,13 +15,6 @@
 5. Use of Data Set  
 6. Orgins of Data Set 
 
-##FERPA Definitions
-1. Disclosure
-2. FERPA
-3. Authorized Representative
-4. Personally Identifiable Information
-5. Education Records
-
 ##Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
@@ -49,9 +42,5 @@
 24. Data References 
 25. Broadcasting of Data 
 26. Modifications
-27. FERPA Responsibilities
-    1. Joint
-    2. Data Supplier
-    3. User
-##FERPA Termination
+
 
