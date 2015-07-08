@@ -1,21 +1,5 @@
-#Template 
-##Definitions 
-1. "Data Set"
-2. "Data"
-3.  "User"
-4.  "City"
-5.  "Duration"
-6.  "Termination"
+# NDoCH Template 
 
-##Open Terms 
-1. Name  
-2. Company Name  
-3. Company Address  
-4. Data Set  
-5. Use of Data Set  
-6. Orgins of Data Set 
-
-##Clauses 
 1. Operation of Sensor Network
 2. Data Ownership
 3. Form of Data
@@ -42,5 +26,3 @@
 24. Data References 
 25. Broadcasting of Data 
 26. Modifications
-
-
