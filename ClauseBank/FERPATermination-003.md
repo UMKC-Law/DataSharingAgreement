@@ -1,5 +1,5 @@
 # Clause ID = 
-FERPA-003.md
+FERPA-002.md
 
 # Clause Name = 
 FERPA Termination
