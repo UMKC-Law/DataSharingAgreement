@@ -4,7 +4,7 @@
 # Clause Name = 
 FERPA Contractual Provisions Attachment
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-003.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPAContractualProvisionsAttachment-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Kansas Department of Education 
