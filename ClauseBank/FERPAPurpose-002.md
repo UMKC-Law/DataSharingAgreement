@@ -4,7 +4,7 @@
 # Clause Name = 
 FERPA Purpose of the Disclosure
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-003.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPAPurpose-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Kansas Department of Education 
