@@ -4,7 +4,7 @@
 # Clause Name = 
 HIPAA Definitions
 # Clause URL = 
-
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPAAMaterialBreachEnforcementTermination-003.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
