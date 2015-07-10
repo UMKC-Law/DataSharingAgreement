@@ -1,0 +1,31 @@
+[{
+    "id": "002",
+    "name": "Data Ownership",
+    "url": "https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md",
+    "source": "* Created by Bryan Wilson",
+    "markup": "2.sec=",
+    "notes": "",
+    "content": "Unless otherwise agreed in a writing executed by authorized representatives of {the_City} and User, as between {the_City} and User, {the_City} shall own all right, title and interest in and to the Intellectual Property Rights in the Sensor Data."
+  },
+
+  {
+    "id": "001",
+    "name": "Operation of Sensor Network",
+    "url": "https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/001.md#commonaccord-template-markup",
+    "source": "* UMKC Law School, Summer Class Clause Curation * NYC DoT Agreement ",
+    "markup": "1.sec=",
+    "notes": "",
+    "content": "{The_City} represents that it maintains the operating system that allows the User to access specific data sets."
+  },
+
+  {
+    "id": "004",
+    "name": "Operating Costs",
+    "url": "https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
+    http: //www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf",
+      "source": "* UMKC Law School, Summer Class Clause Curation * New York Department of Transportation Video and Traffic Flow Data Sharing Agreement ",
+    "markup": "4.sec=",
+    "notes": "",
+    "content": "User hereby agrees to furnish and supply at its own cost and expense all necessary equipment to receive and utilize said information whenever required. Any and all expenses relating to access by User shall be borne and maintained by User. Information and video images gathered by User from its access to the sensors shall be disseminated by User in a timely manner so as to not undermine the public’s confidence in {the_City}’s efforts."
+  }
+]
