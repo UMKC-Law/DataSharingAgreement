@@ -4,7 +4,7 @@ FERPA-002.md
 # Clause Name = 
 FERPA Termination
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-003.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPATermination-003.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Kansas Department of Education 
