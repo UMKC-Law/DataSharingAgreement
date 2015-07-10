@@ -4,7 +4,7 @@ FERPA-002.md
 # Clause Name = 
 FERPA Responsibilities
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-002.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPARequiredTasks-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Kansas Department of Education 
