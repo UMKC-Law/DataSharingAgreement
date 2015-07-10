@@ -3,7 +3,7 @@
 # Clause Name = 
 HIPAA Obligations of Covered Entity. 
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/edit/master/ClauseBank/HIPPA-.003.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPAAObligationsOfCovered%20Entity-003.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
