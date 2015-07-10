@@ -4,7 +4,7 @@
 # Clause Name = 
 HIPPA Obligations of Data User
 # Clause URL = 
-
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPAAObligationsOfDataUser-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Yale HIPPA Data Use Agreement
