@@ -24,3 +24,10 @@
 12. Data-Sharing Project Costs
 13. Resources
 14. Signatures
+ 
+
+*Comment: This agreement is used verbatim by two independent groups -- the CDC uses it and NCWD Youth uses it- 
+
+here: http://webcache.googleusercontent.com/search?q=cache:GIirjEW19OMJ:www.cdc.gov/cancer/ncccp/doc/SampleInteragencyDataSharingAgreement.doc+&cd=1&hl=en&ct=clnk&gl=us&client=safari 
+
+and here: http://www.ncwd-youth.info/assets/guides/assessment/sample_forms/data_share.pdf*
