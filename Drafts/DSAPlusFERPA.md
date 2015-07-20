@@ -8,6 +8,13 @@ WHEREAS, the City has installed sensors and detectors at certain locations, whic
 
 WHEREAS, {Goals of Agreement} 
 
+Definitions
+a) "Disclose", "disclosure" or "re-disclosure" means to permit access to or the release, transfer or other communication of personally identifiable information contained in education records by any means, including oral, written or electronic means, to any party except the party identified as the party that provided or created the record. 34 CFR §99.3.
+b) "FERPA" refers to the Family Educational Rights and Privacy Act of 1974 and for purposes of this Agreement means 20 U.S.C. 1232g as well as all requirements of Part 99 of Title 34 of the Code of Federal Regulations (as amended in 2012), "Family Education Rights and Privacy."
+c) "Authorized representative" means an entity or individual designated by the {Data Supplier} to conduct, with the respect to Federal or State supported eduation programs, any audit or evaluation, or any compliance or enforcement activity in connection with Federal legal requirements that relate to these programs. 34 CFR & 99.3.
+d) "Personally identifiable information" includes, but is not limited to: the student's name; the name of that student's parent or other family members; the address of the student or student's family; a personal identifier, such as the student's social security number, student number, or biometric record; other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name; other information that, alone or in a combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have perosnal knowledge oof the relevant circumstances, to identify the student with reasonable certainty; or, information reasonably believes knows the identity of the student to whom the education record relates. 34 CFR § 99.3.
+e) "Education records" means records that are directly related to a student, and maintained by an educational agency or institution or by a party acting for the agency or institution. 34 CFR §99.3.
+
 NOW THEREFORE in consideration of the mutual promises contained in the Agreement and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
 
 1.	The City represents that it maintains the operating system that allows the User to access specific data sets. 
@@ -67,6 +74,11 @@ NOW THEREFORE in consideration of the mutual promises contained in the Agreement
 25.	It is understood that the User may include information in online traffic updates and videos it provides to its broadcast clients provided that such broadcast clients are not charged any additional amount by virtue of the inclusion of the City’s traffic information. 
 
 26.	This Agreement constitutes the entire agreement between the parties and may not be modified except in writing signed by both parties. Any disputes arising from the terms of this Agreement shall be subject to adjudication in {State} court of competent jurisdiction. Controversies or questions with respect to this Agreement shall be determined in accordance with the law of the {State}. This Agreement shall be deemed to be made and to be performed wholly in {State}. 
+
+27.   {Data Supplier} and {User} shall comply with the provisions of FERPA in all respects. Nothing in this Agreement may be construed to allow any signatory to this Agreement to maintain, use, disclose, re-disclose or share student information in a manner not allowed by federal law, regulation or this Agreement.
+   
+
+28.   {User} agrees to use data shared under this Agreement for no purpose other than to conduct an evaluation or audit of federal and State supported education programs. {Data Supplier} approval to utilize the personally identifiable info1mation from education records for this audit or evaluation does not confer approval to use it for any other purpose.
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written. 
 
