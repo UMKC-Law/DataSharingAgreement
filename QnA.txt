@@ -5,20 +5,20 @@ Before: <center><h2>Data Sharing Agreement Generator</h2></center>
 Q(1): What is your name?
 X:Name
 	Q(1.1): Which description best describes you
-	A: Third Party Developer
+	A:Third Party Developer
 		Q(1.1.1): What is your Company's Name?
-		X: CoName
+		X:CoName
 			Q(1.1.1.1): What is your Company's Address?
-			X: CoAddress
+			X:CoAddress
 				Q(1.1.1.1.1): What date will the period of this agreement begin?
-				X: StartDate
+				X:StartDate
 					Q(1.1.1.1.1.1): What date will the period end? Period cannot last longer than 2 years
-					X: EndDate
+					X:EndDate
 						DOC(1.1.1.1.1.1.1): This AGREEMENT is made and entered into on <x>StartDate</x> by and between Kansas City, Missouri and <x>CoName</x> and shall end on <x>EndDate</x> .<br><br>
 						Q(1.1.1.1.1.1.1): Describe the stream of data you seek to access as specifically as possible and explain why you wish to use it.
-						X: DataDescription
+						X:DataDescription
 							Q(1.1.1.1.1.1.1.1): Explain what you wish to use the data for.
-							X: DataPurpose
+							X:DataPurpose
 								DOC(1.1.1.1.1.1.1.1.1):WHEREAS, <x>CoName</x> will use <x>DataDescription</x> for <x>DataPurpose</x><br><br> WHEREAS, the City has installed sensors and detectors at certain locations, which are connected to the City’s {Data Collection Center} located at {Data Collection Center Address}, allowing this facility to receive all sensor information at any time. <br><br>										
 								Q(1.1.1.1.1.1.1.1.1):Does your info contain information protected by FERPA, HIPPA, both, or neither? Information protected by FERPA generally pertains to education records. Information protected by HIPAA generally covers individually identifiable health information.
 								A: FERPA
@@ -55,8 +55,8 @@ X:Name
 		X:ApplicantDepartment
 			Q(1.1.2.1): What is your title?
 			X:ApplicantTitle
-				Q(1.1.2.1.1): What is the address of your Department?
-				X:ApplicantDepartmentAddress
+				Q(1.1.2.1.1): What is your email address?
+				X:ApplicantEmail
 					Q(1.1.2.1.1.1): What is your phone number?
 					X:ApplicantPhoneNumber
 						Q(1.1.2.1.1.1.1): Which department has the data you seek? If you do not know this, type "Unknown"
@@ -65,22 +65,23 @@ X:Name
 							X:ProviderCustodian
 								Q(1.1.2.1.1.1.1.1.1): What is the title of the custodian providing the data? If you do not know this, type "Unknown"
 								X:ProviderTitle
-									Q(1.1.2.1.1.1.1.1.1.1): What is the address of the data provider? If you do not know this, type "Unknown"
-									X:ProviderAddress
+									Q(1.1.2.1.1.1.1.1.1.1): What is the email address of the data provider? If you do not know this, type "Unknown"
+									X:ProviderEmail
 										Q(1.1.2.1.1.1.1.1.1.1.1): What is the phone number of the data provider? If you do not know this, type "Unknown"
 										X:ProviderPhoneNumber
 											Q(1.1.2.1.1.1.1.1.1.1.1.1): Describe the data you wish to use as specifically as possible.
-											X: InternalDescription
+											X:InternalDescription
 												Q(1.1.2.1.1.1.1.1.1.1.1.1.1): Explain why you wish to use this data.
-												X: InternalPurpose
+												X:InternalPurpose
 													Q(1.1.2.1.1.1.1.1.1.1.1.1.1.1): How long do you wish to use the data?
-													X: InternalLength
+													X:InternalLength
 														Q(1.1.2.1.1.1.1.1.1.1.1.1.1.1.1): How do you wish to receive or access the data?
-														X: InternalMethodofAccess
+														X:InternalMethodOfAccess
 
 															Q(1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1): Do you agree to the additional terms of the agreement?
 															A: Yes
-																DOC(1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1): <x>Name</x>, <x>ApplicantDepartment</x><br>
+																DOC(1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1): State of Missouri<br> City of Kansas City, MO <br><br> REQUESTER<br> <x>Name</x>, <x>ApplicantTitle</x>, <x>ApplicantDepartment</x><br> <x>ApplicantEmail</x><br> <x>ApplicantPhoneNumber</x><br><br> PROVIDER <br> <x>ProviderDepartment</x>, <x>ProviderCustodian</x>, <x>ProviderTitle</x><br> <x>ProviderEmail</x><br> <x>ProviderPhoneNumber</x><br><br> Whereas, the City has a network of Smart City sensors being used to collect different types of data including<br> * [Here will be a bulleted list of all the different data sets available to be used once the Smart City becomes operational] <br><br> Whereas, the Municipal Government of Kansas City, Missouri recognizes that many Kansas Citians qualify for and participate in multiple City programs. Leveraging advances in modern technology will break down information silos and:<br> - Improve client outcomes<br> - Increase the reliability of data <br> - Improve integration of client services <br> - Promote a client-centric approach to service delivery <br> - Improve accessibility and management of information <br> Improve program effectiveness, performance and accountability <br><br> I. Purpose <br> <x>Name</x> from <x>ApplicantDepartment</x> seeks to use Smart City Data for <x>InternalPurpose</x>. <x>Name</x> will get the data from <x>ProviderCustodian</x> in the <x>ProviderDepartment</x>.<br><br> II. Period of Agreement <br> The period of agreement shall be <x>InternalLength</x>. <br><br> III. Description of Data <br> <x>Name</x> plans to use the following data: <x>InternalDescription</x>  IV. Method of Access or Transfer <br> <x>Name</x> shall access the data by way of <x>InternalMethodOfAccess</x> and guarantees that she will establish specific safeguards to assure the confidentiality and security of individually identifiable records or record information. If encrypted identifiable information is transferred electronically through means such as the Internet, then said transmissions will be consistent with the rules and standards promulgated by Federal statutory requirements regarding the electronic transmission of identifiable information. <br><br> V. Custodial Responsibility <br> The parties mutually agree that one department will be designated as “Custodian” of the file(s) and will be responsible for the observance of all conditions for use and for establishment and maintenance of security agreements as specified in this agreement to prevent unauthorized use. Where and how the data will be stored and maintained will also be specified in this section.<br><br> This agreement represents and warrants further that, except as specified in an attachment or except as authorized in writing, that such data shall not be disclosed, released, revealed, showed, sold, rented, leased, loaned, or otherwise have access granted to the data covered by this agreement to any person. Access to the data covered by this agreement shall be limited to the minimum number of individuals necessary to achieve the purpose stated in the section and to those individuals on a need-to-know basis only. <br><br> Any summary results, however, can be shared. Summary results are those items that cannot be used to identify any individual. It should be noted that the stripping of an individual’s name or individual identification number does not preclude the identification of that individual, and therefore is not sufficient to protect the confidentiality of individual data. <br><br> VI. Confidentiality <br> The User agrees to establish appropriate administrative, technical, and physical safeguards to protect the confidentiality of the data and to prevent unauthorized use or access to it. The safeguards shall provide a level and scope of security that is not less than the level and scope of security established {department/office that manages the data security} <br><br> VII. Disposition of Data <br> The requestor and its agents will destroy all confidential information associated with actual records as soon as the purposes of the project have been accomplished and notify the providing agency to this effect in writing. When the project is complete, the requester will: <br> 1. Destroy all hard copies containing confidential data <br> 2. Archive and store electronic data containing confidential information offline.<br> 3 All other data will be erased or maintained in a secured area<br><br> VIII. Signatures<br><br> <x>Name</x><br> <x>ApplicantTitle</x><br> <x>ApplicantDepartment</x><br><br> <br><br> ______________________ <br><br> <x>ProviderCustodian</x><br> <x>ProviderTitle</x><br> <x>ProviderDepartment</x><br><br><br><br> ______________________<br>
+
 												
 												
 																Q(1.1.2.1.1.1.1.1.1.1.1.1.1.1.1.1.1):GOTO:2
