@@ -8,7 +8,7 @@ WHEREAS, the City has installed sensors and detectors at certain locations, whic
 
 WHEREAS, {Goals of Agreement} 
 
-Definitions
+Definitions:
 
 a) "Disclose", "disclosure" or "re-disclosure" means to permit access to or the release, transfer or other communication of personally identifiable information contained in education records by any means, including oral, written or electronic means, to any party except the party identified as the party that provided or created the record. 34 CFR §99.3.
 
@@ -19,6 +19,21 @@ c) "Authorized representative" means an entity or individual designated by the {
 d) "Personally identifiable information" includes, but is not limited to: the student's name; the name of that student's parent or other family members; the address of the student or student's family; a personal identifier, such as the student's social security number, student number, or biometric record; other indirect identifiers, such as the student's date of birth, place of birth, and mother's maiden name; other information that, alone or in a combination, is linked or linkable to a specific student that would allow a reasonable person in the school community, who does not have perosnal knowledge oof the relevant circumstances, to identify the student with reasonable certainty; or, information reasonably believes knows the identity of the student to whom the education record relates. 34 CFR § 99.3.
 
 e) "Education records" means records that are directly related to a student, and maintained by an educational agency or institution or by a party acting for the agency or institution. 34 CFR §99.3.
+
+f) "HIPPA"* means the Health Insurance Portability  and Accountability Act of 1996, Public Law 104-191.
+
+g) "HIPAA"* means the regulations promulgated under HIPAA by the United States Department of Health and Human Services, including, but not limited to, 45 C.F.R. Part 160 and 45 C.F.R. Part 164.
+
+h) "Covered Entity"* means a health plan, a health care clearinghouse, or a healthy care provider (each as defined by HIPAA and the HIPAA Regulations) who transmits any healthy information in electronic form in connection with a transaction covered by the HIPAA Regulations.
+
+i) "Individually Identifiable Health Information"* Means information that is a subset of health information, including demographic information collected from an individual, that is:
+  * created or received by a health care provider, health plan, or employer, or health care clearinghouse; **and**
+  * relates to the past, present, or future physical or mental health or condition of an individual; the provision of health care to an individual; or the past, present, or future payment for the provision of health care to an individual; **and**
+  * that identifies the individual; or
+  * with respect to which there is a reasonable basis to believe the information can be used to identify the individual.
+
+j) "Protected Health Information"* or *"PHI"* means individually identifiable Health Information, except that Protected Health Information excludes Individually Identifiable Information in education records covered by the Family Educational Rights and PRivacy Act, as amended, 20 U.S.C. §1232g, records described at 20 U.S.C. § 1232g(a)(4)(B)(iv), and employment records held by a covered entity in its role as employer.
+
 
 NOW THEREFORE in consideration of the mutual promises contained in the Agreement and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:
 
