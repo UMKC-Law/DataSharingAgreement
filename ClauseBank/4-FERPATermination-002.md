@@ -3,6 +3,11 @@ FERPA-002.md
 
 # Clause Name = 
 FERPA Termination
+
+
+# Clause Type =
+if/when things go wrong
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPATermination-002.md
 # Source = 
