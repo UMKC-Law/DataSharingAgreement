@@ -14,8 +14,11 @@ Conceptually, our project suggests that any given agreement is a deck of cards. 
 
 By reducing the document to a collection of clauses, we have given future users of this system the ability to add and subtract cards as they see fit based on factors like jurisdictional requirements or new legislation. For this, we have created a folder of clauses, titled "Clause Bank." That folder is located here: https://github.com/UMKC-Law/DataSharingAgreement/tree/master/ClauseBank Currently, the numbering system we have is based on the clauses we included in our top-level document. As we move forward, there will be more and more clauses added to the clause bank in order to give creators of DSA agreements a wider range of clauses to choose from when creating their decks.This is how our project will be able to maximize its potential -- by not only becoming a system but by becoming a library that creators of agreements must rely upon when creating their own decks.
 
-As our document grows beyond a top-level document, we will need to create a set of system rules that assign additional privacy standards to users that request data sets that are governed by federal laws like FERPA, HIPAA, and COPA. Following that there will need to be additional system rules created that address the differing privacy standards among people that have higher and lower levels of authorization -- for instance, people in educational settings using data for research, people in federal agencies using data for inter-departmental purposes, or people using data for commercial purposes.
+As our document grows beyond a top-level document, we will need to create a set of system rules that assign additional privacy standards to users that request data sets that are governed by federal laws like FERPA and HIPAA. Following that there will need to be additional system rules created that address the differing privacy standards among people that have higher and lower levels of authorization -- for instance, people in educational settings using data for research, people in federal agencies using data for inter-departmental purposes, or people using data for commercial purposes.
 
-Once these things occur, one of the final steps we will need to complete in order to prove this concept will be to create an API that will:
-- Allow users of the system to answer a set of questions based on the types of data they are interested in accessing 
-- Produce a document, based on the information that the user input, with the requisite privacy standards for that document
+Some things we would like to accomplish in the future:
+- Integrate everything in a better, more cohesive manner
+- Create a landing page for System Operators to choose a template and clauses that are suitable for their particular agreement
+  - The clauses and templates will be formatted as webcomponents 
+- Create an API that will allow Applicants to answer a set of questions based on the types of data they are interested in accessing 
+- Produce a Smart Document using CommonAccord based on the Applicant's answers which will allow the user to better explore and understand the agreement 
