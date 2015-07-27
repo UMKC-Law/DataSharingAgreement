@@ -3,6 +3,12 @@
 
 # Clause Name = 
 FERPA Nondebarment
+
+
+# Clause Type =
+if/when things go wrong
+
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPANondebarment-002.md
 # Source = 
