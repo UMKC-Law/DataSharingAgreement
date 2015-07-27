@@ -4,6 +4,10 @@
 # Clause Name = 
 Operation of Sensor Network
 
+
+# Clause Type =
+provider obligations
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/001.md#commonaccord-template-markup
 
