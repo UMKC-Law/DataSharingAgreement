@@ -5,6 +5,9 @@
 # Clause Name = 
 Broadcasting of Data 
 
+# Clause Type =
+user obligations
+
 # Clause URL = 
 http://www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf
 
