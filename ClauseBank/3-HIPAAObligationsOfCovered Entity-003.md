@@ -2,6 +2,10 @@
 
 # Clause Name = 
 HIPAA Obligations of Covered Entity. 
+
+# Clause Type =
+provider obligations
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPAAObligationsOfCovered%20Entity-003.md
 # Source = 
