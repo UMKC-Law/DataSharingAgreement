@@ -4,6 +4,11 @@
 # Clause Name = 
 Indemnification - City
 
+
+# Clause Type =
+if/when things go wrong
+
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
 http://www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf
