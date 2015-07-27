@@ -4,6 +4,10 @@
 # Clause Name = 
 Inspection Rights
 
+# Clause Type =
+if/when things go wrong
+
+
 # Clause URL = 
 http://hipaa.yale.edu/sites/default/files/files/5039-FR-Data-Use-Agreement.pdf 
 
