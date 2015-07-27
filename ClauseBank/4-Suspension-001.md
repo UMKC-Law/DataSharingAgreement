@@ -2,7 +2,12 @@
 012
 
 # Clause Name = 
-Suspension of Access 
+Suspension of Access
+
+
+# Clause Type =
+if/when things go wrong
+
 
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
