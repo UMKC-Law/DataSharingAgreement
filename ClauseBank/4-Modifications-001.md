@@ -1,6 +1,10 @@
 # Clause ID = 
 026
 
+# Clause Type =
+if/when things go wrong
+
+
 # Clause Name = 
 Modifications 
 # Clause URL = 
