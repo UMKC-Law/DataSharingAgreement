@@ -4,6 +4,9 @@
 # Clause Name = 
 Form of Data
 
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
 http://www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf
