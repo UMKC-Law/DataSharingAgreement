@@ -5,7 +5,7 @@
 FERPA Termination
 
 # Clause Type =
-Logistical
+if/when things go wrong
 
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPATermOfAgreement-002.md
