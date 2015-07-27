@@ -1,6 +1,9 @@
 # Clause ID = 
 
 
+# Clause Type =
+User obligations
+
 # Clause Name = 
 HIPPA Obligations of Data User
 # Clause URL = 
