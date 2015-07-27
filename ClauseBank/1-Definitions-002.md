@@ -3,6 +3,10 @@ FERPA-001
 
 # Clause Name = 
 FERPA Definitions
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPA-001.md
 # Source = 
