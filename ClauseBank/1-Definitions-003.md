@@ -3,6 +3,10 @@ HIPPA-001.md
 
 # Clause Name = 
 HIPPA Definitions 
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPPA-001.md
 # Source = 
