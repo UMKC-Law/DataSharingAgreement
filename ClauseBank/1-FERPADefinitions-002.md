@@ -2,7 +2,11 @@
 FERPA-003.md
 
 # Clause Name = 
-FERPA Termination
+FERPA Defintions
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPADefinitions-002.md
 # Source = 
