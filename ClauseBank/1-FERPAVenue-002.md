@@ -3,6 +3,11 @@
 
 # Clause Name = 
 FERPA Venue
+
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPAVenue-002.md
 # Source = 
