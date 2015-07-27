@@ -3,6 +3,10 @@
 
 # Clause Name = 
 FERPA Termination
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPATermOfAgreement-002.md
 # Source = 
