@@ -4,6 +4,11 @@
 # Clause Name = 
 Data Ownership
 
+
+# Clause Type =
+provider obligations
+
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
 
