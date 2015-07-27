@@ -4,6 +4,9 @@
 # Clause Name = 
 Internal Use of Data
 
+# Clause Type =
+user obligations
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
 http://www.erdc.wa.gov/data/docs/dataouttemplate.pdf
