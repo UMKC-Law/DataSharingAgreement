@@ -3,6 +3,10 @@
 
 # Clause Name = 
 HIPAA Definitions
+
+# Clause Type =
+Logistical
+
 # Clause URL = 
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/HIPAAMiscellaneousTerms-003.md
 # Source = 
