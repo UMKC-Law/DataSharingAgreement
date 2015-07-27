@@ -1,6 +1,9 @@
 # Clause ID = 
 
 
+# Clause Type =
+if/when things go wrong
+
 # Clause Name = 
 HIPAA Definitions
 # Clause URL = 
