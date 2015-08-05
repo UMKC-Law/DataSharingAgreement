@@ -17,3 +17,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/blob/master/AgreementTemplates/
 
 - Clauses ending in 003 are from the Yale HIPPA Agreement:
 https://github.com/UMKC-Law/DataSharingAgreement/blob/master/AgreementTemplates/HIPPA-Template.md
+
+
+
+# Add plain language section
