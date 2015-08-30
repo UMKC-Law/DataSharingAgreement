@@ -21,6 +21,9 @@ The provider owns the rights to the data
 
 ### Rate of Litigation
 
+### Number of times re-used
+0
+
 ### Notes 
 For an agreement involving data being borrowed by the city, the clause type would change to User Obligations
 
