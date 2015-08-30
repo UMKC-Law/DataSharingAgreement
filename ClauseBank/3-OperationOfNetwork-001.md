@@ -1,24 +1,22 @@
-# Clause ID = 
+### Clause ID = 
 001
 
-# Clause Name = 
+### Clause Name = 
 Operation of Sensor Network
 
+### Clause Type =
+Provider Obligations
 
-# Clause Type =
-provider obligations
+### Clause URL = 
 
-# Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/001.md#commonaccord-template-markup
-
-# Source = 
+### Source = 
 * UMKC Law School, Summer Class Clause Curation
 * NYC DoT Agreement
 
-# CommonAccord Template Markup:   
-1.sec=  
+### Plain Language
 
-# Notes = 
+### Notes = 
+For an agreement involving data being borrowed by the city, the clause type would change to User Obligations
 
-# Content = 
+### Content = 
 {The_City} represents that it maintains the operating system that allows the User to access specific data sets. 
