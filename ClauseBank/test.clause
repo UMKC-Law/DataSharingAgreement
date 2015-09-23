@@ -1,3 +1,27 @@
+# Clause ID = 
+test
+
+# Clause Name = 
+Duration and extension
+
+# Clause Type =
+Logistical
+
+# Clause URL = 
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
+http://www.nyc.gov/html/dot/downloads/pdf/video-partnership-agreement.pdf
+
+# Source = 
+* UMKC Law School, Paul Barham Test
+* NYC DoT Agreement
+
+# CommonAccord Template Markup:   
+17.sec=
+
+# Notes = 
+
+# Content = 
+
 Doc.Title=ARTICLES OF INCORPORATION OF<br><span style="text-transform: uppercase">{Corp.Name.Full}</span>
 
 0.sec=The undersigned incorporators of {Corp.Name.Full}, seeking to form a corporation incorporated under the provisions of The General Not For Profit Corporation Act of the State of Missouri (the “Corporation”), for the purpose of adopting the Article of Incorporation of the Corporations, hereby execute, deliver and file these Articles of Incorporation, which shall be duly adopted by the Board of Directors of the Corporation by an Action by Unanimous Consent In Lieu of Special Meeting of Directors.
