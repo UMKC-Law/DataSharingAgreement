@@ -15,8 +15,7 @@ https://github.com/UMKC-Law/DataSharingAgreement/blob/master/Drafts/NDoCH-DSA.md
 # Source = 
 * Created by Bryan Wilson
 
-# CommonAccord Template Markup:   
-2.sec=  
+# Plain Text: The City owns all of the data mentioned in this agreement
 
 # Notes = 
 
