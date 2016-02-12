@@ -1,4 +1,4 @@
-Title: Data Sharing Agreement Generator
+Title: Mega Data Sharing Agreement Generator
 Description: A tool to help automatically generate different data sharing agreements
 Before: <center><h2>Data Sharing Agreement Generator</h2></center>
 
