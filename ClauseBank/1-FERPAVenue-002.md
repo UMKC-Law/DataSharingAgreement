@@ -9,7 +9,7 @@ FERPA Venue
 Logistical
 
 # Clause URL = 
-https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/FERPAVenue-002.md
+https://github.com/UMKC-Law/DataSharingAgreement/blob/master/ClauseBank/1-FERPAVenue-002.md
 # Source = 
 * UMKC Law School, Summer Class Clause Curation
 * Kansas Department of Education 
